@@ -1,2 +1,2 @@
 # randomcharNumSplchar
-sample code to generate random set of alphabet+number+spl.char+ Junit TCs
+sample code to generate random set of alphabet+number+splchar+ Junit TCs
