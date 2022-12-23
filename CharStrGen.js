@@ -1,6 +1,6 @@
 //random string
 function randAlphaString(len) {
-    var newstr = "";
-    for(var i=0;i<len;i++) newstr += randletter();
-    return newstr;
+    var newstrr = "";
+    for(var i=0;i<len;i++) newstrr += randletter();
+    return newstrr;
 }
