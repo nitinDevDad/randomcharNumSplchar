@@ -1,6 +1,6 @@
 function getRandomCharacter(length) {
     var result           = '';
-    var symbols       = "!@#$%^&*(){}[]=<>/.";
+    var symbolss       = "!@#$%^&*(){}[]=<>/.";
     for ( var i = 0; i < length; i++ ) {
       result += symbols.charAt(Math.floor(Math.random() *symbols.length));
    }
