@@ -1,2 +1,2 @@
 # randomcharNumSplchar
-sample code for Random set of alphabet+number+spl.char
+sample code to generate random set of alphabet+number+spl.char
